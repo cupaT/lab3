@@ -17,6 +17,7 @@ public class CollectionsTask {
         Collections.sort(list);
         System.out.println("Sorted List: " + list);
 
+        // d) Сортируем список в обратном порядке
         Collections.sort(list, Collections.reverseOrder());
         System.out.println("Reversed List: " + list);
 
