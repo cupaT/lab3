@@ -25,7 +25,7 @@ public class CollectionsTask {
         Collections.shuffle(list);
         System.out.println("Shuffled List: " + list);
 
-        // f) Выполняем циклический сдвиг на 1 элемент
+        // f) Выполняем циклический сдвиг на 1 элемент1
         Collections.rotate(list, 1);
         System.out.println("Rotated List: " + list);
 
